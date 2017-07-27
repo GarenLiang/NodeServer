@@ -4,7 +4,8 @@
 ```javascript
   module.exports = {
     googleClientID: '',
-    googleClientSecret: ''
+    googleClientSecret: '',
+    mongoURI: ''
   };
 
 ```
