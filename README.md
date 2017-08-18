@@ -8,7 +8,9 @@
     mongoURI: '',
     cookieKey: '',
     stripePublishableKey: '',
-    stripeSecretKey: ''
+    stripeSecretKey: '',
+    sendGridKey: '',
+    redirectDomain: 'http://localhost:3000'
   };
 
 ```
